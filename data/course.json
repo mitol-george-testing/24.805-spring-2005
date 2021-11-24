@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Intellectual History"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Epistemology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1b69a877-81fa-7193-5699-cab7c0a6383d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Theory of Knowledge: A Priori Knowledge",
+  "course_description": "The seminar will explore the phenomenon of a priori knowledge. We'll consider some notable attempts to account for a priori knowledge in the history of philosophy (e.g., by Plato, Descartes, Hume, and Kant), some influential critiques of the notion; we will end by considering some contemporary approaches to the a priori.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.805",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
